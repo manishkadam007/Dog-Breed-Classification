@@ -1,5 +1,7 @@
 # Dog-Breed-Classification
 Udacity Deep Learning Nanodegree Project 2
+
+
 [//]: # (Image References)
 
 [image1]: ./images/sample_dog_output.png "Sample Output"
